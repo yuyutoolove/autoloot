@@ -1,0 +1,5 @@
+<configs>
+	<set xpath="/entity_classes/entity_class[contains(@name, 'zombie')]/property[contains(@name, 'TimeStayAfterDeath')]/@value">0</set>
+	<set xpath="/entity_classes/entity_class[contains(@name, 'animal')]/property[contains(@name, 'TimeStayAfterDeath')]/@value">0</set>
+</configs>
+
